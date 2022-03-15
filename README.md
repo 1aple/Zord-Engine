@@ -16,3 +16,7 @@ no fake
 yeah no fake
 
 also don't forget to support the mod on gamebanana: https://gamebanana.com/mods/357519 :)
+
+i wrote this crap at 9:30 PM
+
+ima go to sleep lmao
