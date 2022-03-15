@@ -14,3 +14,5 @@ no fake
 ![image](https://user-images.githubusercontent.com/92934617/158400815-cb0c7b22-fd9b-4b73-abc8-306714c8ffef.png)
 
 yeah no fake
+
+also don't forget to support the mod on gamebanana: https://gamebanana.com/mods/357519 :)
