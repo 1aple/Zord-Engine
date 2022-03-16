@@ -12,10 +12,6 @@ nevermind
 ![image](https://user-images.githubusercontent.com/92934617/158526504-1174a695-d919-4b79-b312-3a9e183e4217.png)
 
 
-![image](https://user-images.githubusercontent.com/92934617/158400815-cb0c7b22-fd9b-4b73-abc8-306714c8ffef.png)
-
-yeah no fake
-
 also don't forget to support the mod on gamebanana: https://gamebanana.com/mods/357519 :)
 
 i wrote this crap at 9:30 PM
