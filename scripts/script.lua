@@ -13,13 +13,14 @@ function onCreatePost()
 	end
 end
 -- thanks to MYKETHAMIKE for the code lol
+-- click 1/ONE to enable hitsounds, click 2/TWO to disable hitsounds.
 function onUpdatePost()
-	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.E') then
+	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.ONE') then
 		playSound('confirmMenu', 1);
 		setPropertyFromClass('flixel.FlxG', 'save.data.enablehitsounds', true)
 		debugPrint('hitSounds has been Enabled.')
 	end
-	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.Q') then
+	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.TWO') then
 		playSound('confirmMenu', 1);
 		setPropertyFromClass('flixel.FlxG', 'save.data.enablehitsounds', false)
 		debugPrint('hitSounds has been Disabled.')
