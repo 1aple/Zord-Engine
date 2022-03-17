@@ -7,6 +7,11 @@ Yep 100% Lua
 
 ![image](https://user-images.githubusercontent.com/92934617/158399946-b989063f-51ba-4e97-a5cb-a4ee1903c113.png)
 
+also heres a thumbnail or whatever its called lmao
+
+![ZordEngine](https://user-images.githubusercontent.com/92934617/158720889-88f8f3c6-6449-473f-a85d-b02110c4324b.png)
+
+
 # Nogames Mod (Real)
 Nogames is a song from the /v/ mod [here](https://mega.nz/file/LA4hySRZ#nCb9Ak1ww8zZueKXJJmNkTfgf84h3rURcSXGBm7_Ybk) also warning cuz mod contains slur words
 
