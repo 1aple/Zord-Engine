@@ -13,7 +13,7 @@ function onCreatePost()
 	end
 end
 -- thanks to MYKETHAMIKE for the code lol
--- click 1/ONE to enable hitsounds, click 2/TWO to disable hitsounds.
+-- Press 1 on your keyboard to enable hitsounds, Press 2 on your keyboard to disable hitsounds.
 function onUpdatePost()
 	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.ONE') then
 		playSound('confirmMenu', 1);
