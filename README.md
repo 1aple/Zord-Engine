@@ -15,7 +15,7 @@ also heres a thumbnail or whatever its called lmao
 # Nogames Mod (Real)
 Nogames is a song from the /v/ mod [here](https://mega.nz/file/LA4hySRZ#nCb9Ak1ww8zZueKXJJmNkTfgf84h3rURcSXGBm7_Ybk) also warning cuz mod contains slur words
 
-if you are sensitive to slur words do not play the Nogames mod and this mod.
+if you are sensitive to slur words do not play the /v/ mod and this mod.
 
 also don't forget to support the mod on gamebanana: https://gamebanana.com/mods/357519 :)
 
