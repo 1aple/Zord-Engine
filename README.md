@@ -20,3 +20,5 @@ if you are sensitive to slur words do not play the /v/ mod and this mod.
 also don't forget to support the mod on gamebanana: https://gamebanana.com/mods/357519 :)
 
 and my triple-trouble mod even its not up to date anymore: https://gamebanana.com/mods/349754 
+
+also if you wanna use the lua scripts, put the scripts file to the latest version of psych engine, if you dont understand what i meant, download the code (code/download ZIP) and then put the script file to the latest version of psych engine, heres what i mean by put the script file to the lastest version of psych engine (PsychEngine/mods) then just replace the script, yeah thats it
