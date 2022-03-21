@@ -6,6 +6,7 @@ function onCreatePost()
 	makeLuaText('bads', 'Bads:' .. getProperty('bads'), 200, 30, 315);
 	makeLuaText('shits', 'Shits:' .. getProperty('shits'), 200, 30, 335);
 	makeLuaText('misses', 'Misses:' ..misses.. '', 200, 30, 355);
+	makeLuaText('song name', 'Song name:' .. songName .. '', 200, 30, 390);
 	setTextSize('note hits', 18)
 	setTextSize('combo', 18)
 	setTextSize('sicks', 18)
@@ -13,6 +14,7 @@ function onCreatePost()
 	setTextSize('bads', 18)
 	setTextSize('shits', 18)
 	setTextSize('misses', 18)
+	setTextSize('song name', 16)
 	setTextAlignment('note hits', 'left')
 	setTextAlignment('combo', 'left')
 	setTextAlignment('sicks', 'left')
@@ -20,6 +22,7 @@ function onCreatePost()
 	setTextAlignment('bads', 'left')
 	setTextAlignment('shits', 'left')
 	setTextAlignment('misses', 'left')
+	setTextAlignment('song name', 'left')
 	addLuaText('note hits');
 	addLuaText('combo');
 	addLuaText('sicks');
@@ -27,6 +30,7 @@ function onCreatePost()
 	addLuaText('bads');
 	addLuaText('shits');
 	addLuaText('misses');
+	addLuaText('song name');
 end
 
 function onRecalculateRating()
@@ -37,4 +41,5 @@ function onRecalculateRating()
 	setTextString('bads', 'Bads:' .. getProperty('bads'));
 	setTextString('shits', 'Shits:' .. getProperty('shits'));
 	setTextString('misses', 'Misses:' ..misses.. '')
+	setTextString('song name', 'Song name:' .. songName .. '')
 end

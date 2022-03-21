@@ -8,6 +8,7 @@ function onUpdatePost()
         setProperty('message.visible', false)
         setProperty('message2.visible', false)
         setProperty('timeTxt.visible', false)
+        setProperty('zordengine.visible', false)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.BACKSPACE') then
         setProperty('aple.visible', true)
@@ -16,6 +17,7 @@ function onUpdatePost()
         setProperty('message.visible', true)
         setProperty('message2.visible', true)
         setProperty('timeTxt.visible', true)
+        setProperty('zordengine.visible', true)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.THREE') then
         setProperty('camHUD.visible', false)
