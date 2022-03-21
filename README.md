@@ -1,6 +1,4 @@
 # Zord-Engine
-- Old: https://github.com/RealConfirmedAple/Zord-Engine
-
 Zord-Engine is a Customized Psych Engine with Lua.
 
 Yep 100% Lua 
