@@ -2,27 +2,15 @@
 -- Press 3/Three on your keyboard to hide camera HUD, Press 4/Four on your keyboard to make the camera HUD visible.
 function onUpdatePost()
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.SHIFT') then
-        setProperty('aple.visible', false)
-        setProperty('thanks.visible', false)
-        setProperty('songText.visible', false)
-        setProperty('message.visible', false)
-        setProperty('message2.visible', false)
-        setProperty('timeTxt.visible', false)
-        setProperty('zordengine.visible', false)
+        debugPrint('the watermark and the timeBar is now Hidden.')
         setPropertyFromClass('flixel.FlxG', 'save.data.hide', true)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.BACKSPACE') then
-        setProperty('aple.visible', true)
-        setProperty('thanks.visible', true)
-        setProperty('songText.visible', true)
-        setProperty('message.visible', true)
-        setProperty('message2.visible', true)
-        setProperty('timeTxt.visible', true)
-        setProperty('zordengine.visible', true)
+        debugPrint('the watermark and the timeBar is now visible.')
         setPropertyFromClass('flixel.FlxG', 'save.data.hide', false)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.THREE') then
-        setProperty('camHUD.visible', false)
+        setProperty('camHUD.visible', false) -- i dont need to debug this one since you cant see it if the hud is hidden.
         setPropertyFromClass('flixel.FlxG', 'save.data.hideHUD', true)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.FOUR') then
