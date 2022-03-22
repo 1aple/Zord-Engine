@@ -9,6 +9,7 @@ function onUpdatePost()
         setProperty('message2.visible', false)
         setProperty('timeTxt.visible', false)
         setProperty('zordengine.visible', false)
+        setPropertyFromClass('flixel.FlxG', 'save.data.hide', true)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.BACKSPACE') then
         setProperty('aple.visible', true)
@@ -18,12 +19,15 @@ function onUpdatePost()
         setProperty('message2.visible', true)
         setProperty('timeTxt.visible', true)
         setProperty('zordengine.visible', true)
+        setPropertyFromClass('flixel.FlxG', 'save.data.hide', false)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.THREE') then
         setProperty('camHUD.visible', false)
+        setPropertyFromClass('flixel.FlxG', 'save.data.hideHUD', true)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.FOUR') then
         setProperty('camHUD.visible', true)
+        setPropertyFromClass('flixel.FlxG', 'save.data.hideHUD', false)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.NINE') then -- Press 9 on your keyboard for info's
         debugPrint('Click Shift to hide watermarks and timeBar')
