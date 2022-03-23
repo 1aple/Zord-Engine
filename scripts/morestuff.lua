@@ -10,7 +10,7 @@ function onUpdatePost()
         setPropertyFromClass('flixel.FlxG', 'save.data.hide', false)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.THREE') then
-        setProperty('camHUD.visible', false) -- i dont need to debug this one since you cant see it if the hud is hidden.
+        setProperty('camHUD.visible', false) -- i dont need to debugPrint this one since you cant see it if the hud is hidden.
         setPropertyFromClass('flixel.FlxG', 'save.data.hideHUD', true)
     end
     if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.FOUR') then
@@ -24,6 +24,16 @@ function onUpdatePost()
         debugPrint('Press 4 on your keyboard to make the camera HUD visible')
         debugPrint('Press 1 on your keyboard to enable hitSounds')
         debugPrint('Press 2 on your keyboard to disable hitSounds')
+        debugPrint('Click 5 on your keyboard to hide the Judgement Counter')
+        debugPrint('Click 6 on your keyboard to make the Judgement Counter visible')
+    end
+    if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.FIVE') then
+        debugPrint('the Judgement Counter is now has been hidden.')
+        setPropertyFromClass('flixel.FlxG', 'save.data.Judgement', true)
+    end
+    if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.SIX') then
+        debugPrint('the Judgement Counter is now visible.')
+        setPropertyFromClass('flixel.FlxG', 'save.data.Judgement', false)
     end
 end
 

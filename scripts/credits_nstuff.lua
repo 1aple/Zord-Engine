@@ -7,7 +7,7 @@ function onCreatePost()
     setTextSize('aple', 17);
     setTextBorder('aple', 2, '000000');
 
-    makeLuaText('zordengine', "Zord-Engine v0.1.5 by ApleFromIRL.", 0, 942, 696);
+    makeLuaText('zordengine', "Zord-Engine by ApleFromIRL.", 0, 1010, 696);
     addLuaText('zordengine');
     setTextAlignment('zordengine', 'right');
     setTextSize('zordengine', 17);
