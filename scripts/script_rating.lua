@@ -42,7 +42,7 @@ function onUpdatePost(elapsed)
     -- UPDATING SCORETXT
 
     if ratingName == '?' then
-        local beforeScoreTxt = 'Score: 0 | Accuracy: 0.00% | Rating: ? - [???]'
+        local beforeScoreTxt = '[ Score: 0 | Accuracy: 0.00% | Rating: ? - [???] ]'
         setProperty('scoreTxt.text', beforeScoreTxt)
     else
         local ratingNameM = getProperty('ratingFC')
@@ -55,7 +55,7 @@ function onUpdatePost(elapsed)
 
         local tempRatingNameVery = accuracyToRatingString(ratingFull)
         -- we can assert that ratingdec
-        local finalScoreTxt = 'Score: '..score..' | Accuracy: '..ratingFullAsStr..'% | Rating: '..tempRatingNameVery..' - ['..ratingNameM..']'
+        local finalScoreTxt = '[ Score: '..score..' | Accuracy: '..ratingFullAsStr..'% | Rating: '..tempRatingNameVery..' - ['..ratingNameM..'] ]'
         setProperty('scoreTxt.text', finalScoreTxt)
     end
 end

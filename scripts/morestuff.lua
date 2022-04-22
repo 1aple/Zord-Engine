@@ -21,7 +21,7 @@ function onUpdatePost()
         debugPrint('Click Shift to hide watermarks and timeBar')
         debugPrint('Click Backspace to make watermarks and timeBar visible')
         debugPrint('Press 3 on your keyboard to hide the camera HUD')
-        debugPrint('Press 4 on your keyboard to make the camera HUD visible')
+        debugPrint('Press 4 on your keyboard to make the camera HUD visible') -- I. Am Next Level. Mad. [BFB REFRENCE!!!]
         debugPrint('Press 1 on your keyboard to enable hitSounds')
         debugPrint('Press 2 on your keyboard to disable hitSounds')
         debugPrint('Click 5 on your keyboard to hide the Judgement Counter')

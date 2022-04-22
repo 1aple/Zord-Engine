@@ -29,5 +29,5 @@ function onEndSong()
 end
 
 function onUpdatePost(elapsed)
-    setPropertyFromClass("openfl.Lib", "application.window.title", 'Nogames: Zord Engine v0.1.5')
+    setPropertyFromClass("openfl.Lib", "application.window.title", 'Nogames: Zord Engine v0.1.5 |' ..songName.. '['..currentDifficulty..']')
 end
