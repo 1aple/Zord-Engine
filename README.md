@@ -1,4 +1,7 @@
 # Zord-Engine
+Requirements:
+Psych Engine 0.5.2h
+
 Zord-Engine is a Customized Psych Engine with Lua.
 
 Yep 100% Lua 
