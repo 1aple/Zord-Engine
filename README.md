@@ -12,6 +12,8 @@ also heres a thumbnail or whatever its called lmao
 
 ![ZordEngine](https://user-images.githubusercontent.com/92934617/158720889-88f8f3c6-6449-473f-a85d-b02110c4324b.png)
 
+also uhh i had no idea what to add so uhh suggest some stuff on my discord server yes yes
+discord server: https://discord.gg/RsyurVnMA3
 
 # Nogames Mod (Real)
 Nogames is a song from the /v/ mod [here](https://mega.nz/file/LA4hySRZ#nCb9Ak1ww8zZueKXJJmNkTfgf84h3rURcSXGBm7_Ybk) also warning cuz mod contains slur words
