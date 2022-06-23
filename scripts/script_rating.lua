@@ -17,9 +17,9 @@ local msTextVisible = false
 function onCreate()
     -- the 540 is the x pos of the text; the 360 is the y pos of the text. Note that y pos is from the top.
     makeLuaText('msTxt', ' ', 0, 540, 360)
-    setTextSize('msTxt', 17)
+    setTextSize('msTxt', 18)
     setTextBorder('msTxt', 2, '000000')
-    setTextFont('msTxt', 'pixel.otf')
+    setTextFont('msTxt', 'vcr.ttf')
     addLuaText('msTxt')
     end
 
