@@ -2,15 +2,9 @@
 Requirements:
 Psych Engine 0.5.2h
 
-Zord-Engine is a Customized Psych Engine with Lua.
-
-Yep 100% Lua 
-
-![image](https://user-images.githubusercontent.com/92934617/158399946-b989063f-51ba-4e97-a5cb-a4ee1903c113.png)
-
 also heres a thumbnail or whatever its called lmao
 
-![ZordEngine](https://user-images.githubusercontent.com/92934617/158720889-88f8f3c6-6449-473f-a85d-b02110c4324b.png)
+![ZordEngineThumbnail](https://user-images.githubusercontent.com/92934617/177172686-57bef517-b058-423c-8c60-72e511a8dfb5.png)
 
 also uhh i had no idea what to add so uhh suggest some stuff on my discord server yes yes
 discord server: https://discord.gg/RsyurVnMA3
