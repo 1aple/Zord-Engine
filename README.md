@@ -1,6 +1,6 @@
 # Zord-Engine
 Requirements:
-Psych Engine 0.5.2h
+da most recent psych engine version
 
 also heres a thumbnail or whatever its called lmao
 
